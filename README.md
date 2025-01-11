@@ -4,3 +4,4 @@
 * The Begining After The End
 * Archmage Restaurant
 * Magic Level
+* Heavenly Deamon
