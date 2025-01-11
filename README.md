@@ -7,3 +7,4 @@
 * Heavenly Deamon
 * Greates Lancer
 * Mage
+* Frozen Player
