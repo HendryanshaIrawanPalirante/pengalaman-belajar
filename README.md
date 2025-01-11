@@ -6,3 +6,4 @@
 * Magic Level
 * Heavenly Deamon
 * Mage
+* Frozen Player
