@@ -5,3 +5,5 @@
 * Archmage Restaurant
 * D
 * C
+* G
+* H
