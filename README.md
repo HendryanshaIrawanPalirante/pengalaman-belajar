@@ -1,7 +1,4 @@
-# Pengalaman Kerja
+# Data Manhwa
 
-**Progres Kerja**<br>
-Jadi Asdos
-* Membuat Materi.
-* Mengajar.
-* Buat Modul
+**1** Daftar Manhwa
+* The Begining After The End
