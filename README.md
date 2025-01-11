@@ -3,5 +3,3 @@
 **1** Daftar Manhwa
 * The Begining After The End
 * Archmage Restaurant
-* Magic Level
-* The Heavenly Demon
