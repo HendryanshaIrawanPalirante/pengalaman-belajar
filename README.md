@@ -4,7 +4,3 @@
 * The Begining After The End
 * Archmage Restaurant
 * Magic Level
-* Heavenly Deamon
-* Greates Lancer
-* Mage
-* Frozen Player
