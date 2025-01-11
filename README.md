@@ -5,3 +5,4 @@
 * Archmage Restaurant
 * Magic Level
 * Heavenly Deamon
+* Greates Lancer
